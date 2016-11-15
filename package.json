@@ -1,0 +1,19 @@
+{
+	"name": "simplyjs",
+	"version": "0.3",
+	"description": "Just simple JavaScript framework. Provides support for manipulating with DOM and events handling. Easy for use, optimized for performance, native browser's support first.",
+	"main": "lib/simply.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/janelznic/simplyjs.git"
+	},
+	"author": "Jan Elznic <jan@elznic.com> (https://janelznic.cz)",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/janelznic/simplyjs/issues"
+	},
+	"homepage": "https://github.com/janelznic/simplyjs#readme"
+}
